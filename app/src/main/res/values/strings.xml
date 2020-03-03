@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab6_CurrencyApp</string>
+    <string name="main_enter_currency">Enter a currency base (ex. USD) </string>
+    <string name="btn_search">Search</string>
+</resources>
